@@ -66,4 +66,3 @@ The initial project structure and development environment have been established.
 This project is developed for the **5COSC026W – Advanced Client-Side Development** module at the University of Westminster.
 
 The implementation is intended to demonstrate the practical application of modern client-side development concepts using React and TypeScript.
-

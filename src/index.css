@@ -1,41 +1,41 @@
 :root {
-    color-scheme: light;
+  color-scheme: light;
 
-    --bg: #ffffff;
-    --surface: #f8f7fa;
-    --text: #6b6375;
-    --text-heading: #08060d;
-    --border: #e5e4e7;
-    --accent: #aa3bff;
+  --bg: #ffffff;
+  --surface: #f8f7fa;
+  --text: #6b6375;
+  --text-heading: #08060d;
+  --border: #e5e4e7;
+  --accent: #aa3bff;
 }
 
-:root[data-theme="dark"] {
-    color-scheme: dark;
+:root[data-theme='dark'] {
+  color-scheme: dark;
 
-    --bg: #16171d;
-    --surface: #22232b;
-    --text: #c4c0cc;
-    --text-heading: #f3f0f7;
-    --border: #383943;
-    --accent: #c084fc;
+  --bg: #16171d;
+  --surface: #22232b;
+  --text: #c4c0cc;
+  --text-heading: #f3f0f7;
+  --border: #383943;
+  --accent: #c084fc;
 }
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    margin: 0;
-    min-width: 320px;
-    min-height: 100svh;
-    background-color: var(--bg);
-    color: var(--text);
+  margin: 0;
+  min-width: 320px;
+  min-height: 100svh;
+  background-color: var(--bg);
+  color: var(--text);
 }
 
 #root {
-    min-height: 100svh;
-    display: flex;
-    flex-direction: column;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
 }
 
 h1,
@@ -44,5 +44,5 @@ h3,
 h4,
 h5,
 h6 {
-    color: var(--text-heading);
+  color: var(--text-heading);
 }
