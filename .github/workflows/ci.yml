@@ -16,6 +16,21 @@ permissions:
   contents: read
 
 jobs:
+  validate-pr-source:
+    name: Validate PR Source Branch
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ensure main receives changes only from develop
+        shell: bash
+        run: |
+          if [[ "$GITHUB_BASE_REF" == "main" && "$GITHUB_HEAD_REF" != "develop" ]]; then
+            echo "Error: Pull requests to main must come from develop."
+            exit 1
+          fi
+
+          echo "Pull request source branch is valid."
+
   build-and-check:
     name: Build and Quality Checks
     runs-on: ubuntu-latest
