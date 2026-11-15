@@ -4,15 +4,19 @@ on:
   push:
     branches:
       - main
+      - develop
+      - 'feature/**'
+      - 'bugfix/**'
   pull_request:
     branches:
       - main
+      - develop
 
 permissions:
   contents: read
 
 jobs:
-  build-annd-check:
+  build-and-check:
     name: Build and Quality Checks
     runs-on: ubuntu-latest
 
