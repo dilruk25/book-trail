@@ -3,13 +3,13 @@ import AppLayout from './layout/AppLayout.tsx'
 import { Route, Routes } from 'react-router'
 import HomePage from './pages/HomePage.tsx'
 import BookListsPage from './pages/BookListsPage.tsx'
-import BookDetailPage from './pages/BookDetailPage.tsx'
+import BookDetailPage from './pages/BookDetailsPage.tsx'
 import LoginPage from './pages/LoginPage.tsx'
 import RegisterPage from './pages/RegisterPage.tsx'
 import NotFoundPage from './pages/NotFoundPage.tsx'
 import AdminDashboardPage from './pages/AdminDashboardPage.tsx'
 
-function App() {
+const App = () => {
   return (
     <Routes>
       <Route element={<AppLayout />}>

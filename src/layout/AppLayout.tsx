@@ -2,7 +2,7 @@ import Navbar from '../components/layout/Navbar.tsx'
 import Footer from '../components/layout/Footer.tsx'
 import { Outlet } from 'react-router'
 
-export default function AppLayout() {
+const AppLayout = () => {
   return (
     <>
       <header>
@@ -19,3 +19,5 @@ export default function AppLayout() {
     </>
   )
 }
+
+export default AppLayout
