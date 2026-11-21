@@ -1,5 +1,5 @@
 import './App.css'
-import AppLayout from './layout/AppLayout.tsx'
+import AppLayout from './layouts/AppLayout.tsx'
 import { Route, Routes } from 'react-router'
 import HomePage from './pages/HomePage.tsx'
 import BookListsPage from './pages/BookListsPage.tsx'
