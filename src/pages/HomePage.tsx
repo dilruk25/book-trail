@@ -1,4 +1,4 @@
-import HeroSection from '../feature/home/components/HeroSection.tsx'
+import HeroSection from '../features/home/components/HeroSection.tsx'
 
 const HomePage = () => {
   return (
