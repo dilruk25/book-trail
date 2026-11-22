@@ -2,9 +2,9 @@ import { useMemo } from 'react'
 import BookCard from '../components/ui/BookCard.tsx'
 import { useBooksQuery } from '../hooks/useBooksQuery.ts'
 import { filterBooks, getBookGenres } from '../services/bookService.ts'
-import { useBookStore } from '../store/useBookStore.ts'
+import { useBookStore } from '../stores/useBookStore.ts'
 
-const BookListsPage = () => {
+const BookListPage = () => {
   const { data: books = [], isLoading, isError, error } = useBooksQuery()
   const { searchQuery, selectedGenre, setSearchQuery, setSelectedGenre, resetFilters } =
     useBookStore()
@@ -90,4 +90,4 @@ const BookListsPage = () => {
   )
 }
 
-export default BookListsPage
+export default BookListPage
