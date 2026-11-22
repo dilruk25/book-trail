@@ -1,0 +1,222 @@
+[
+  {
+    "id": "BK-001",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "description": "A practical guide to building good habits and breaking bad ones.",
+    "publishedYear": 2018,
+    "totalCopies": 5,
+    "availableCopies": 3,
+    "rating": 4.8
+  },
+  {
+    "id": "BK-002",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "description": "A young shepherd travels in search of his personal legend.",
+    "publishedYear": 1988,
+    "totalCopies": 4,
+    "availableCopies": 0,
+    "rating": 4.6
+  },
+  {
+    "id": "BK-003",
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "genre": "Finance",
+    "description": "An introduction to financial education and wealth-building perspectives.",
+    "publishedYear": 1997,
+    "totalCopies": 6,
+    "availableCopies": 4,
+    "rating": 4.5
+  },
+  {
+    "id": "BK-004",
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Finance",
+    "description": "Explores how human behaviour influences financial decisions.",
+    "publishedYear": 2020,
+    "totalCopies": 3,
+    "availableCopies": 2,
+    "rating": 4.7
+  },
+  {
+    "id": "BK-005",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "description": "A young boy discovers that he is a wizard and enters a magical world.",
+    "publishedYear": 1997,
+    "totalCopies": 5,
+    "availableCopies": 1,
+    "rating": 4.9
+  },
+  {
+    "id": "BK-006",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "description": "Bilbo Baggins joins a journey to reclaim a lost dwarf kingdom.",
+    "publishedYear": 1937,
+    "totalCopies": 4,
+    "availableCopies": 4,
+    "rating": 4.8
+  },
+  {
+    "id": "BK-007",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "description": "A man struggles against a totalitarian society with constant surveillance.",
+    "publishedYear": 1949,
+    "totalCopies": 5,
+    "availableCopies": 2,
+    "rating": 4.7
+  },
+  {
+    "id": "BK-008",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "description": "Elizabeth Bennet navigates relationships, social expectations and love.",
+    "publishedYear": 1813,
+    "totalCopies": 4,
+    "availableCopies": 3,
+    "rating": 4.6
+  },
+  {
+    "id": "BK-009",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "description": "A young girl witnesses injustice and prejudice in her community.",
+    "publishedYear": 1960,
+    "totalCopies": 5,
+    "availableCopies": 2,
+    "rating": 4.8
+  },
+  {
+    "id": "BK-010",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "description": "A mysterious millionaire pursues wealth, love and an idealised past.",
+    "publishedYear": 1925,
+    "totalCopies": 3,
+    "availableCopies": 1,
+    "rating": 4.4
+  },
+  {
+    "id": "BK-011",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "description": "A young heir becomes involved in a struggle over a desert planet.",
+    "publishedYear": 1965,
+    "totalCopies": 4,
+    "availableCopies": 2,
+    "rating": 4.7
+  },
+  {
+    "id": "BK-012",
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupery",
+    "genre": "Children",
+    "description": "A young prince travels between planets and discovers meaningful lessons about life.",
+    "publishedYear": 1943,
+    "totalCopies": 5,
+    "availableCopies": 5,
+    "rating": 4.8
+  },
+  {
+    "id": "BK-013",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "History",
+    "description": "An overview of human history and the development of societies.",
+    "publishedYear": 2011,
+    "totalCopies": 4,
+    "availableCopies": 2,
+    "rating": 4.6
+  },
+  {
+    "id": "BK-014",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Memoir",
+    "description": "A woman recounts her journey from an isolated upbringing to education.",
+    "publishedYear": 2018,
+    "totalCopies": 3,
+    "availableCopies": 1,
+    "rating": 4.7
+  },
+  {
+    "id": "BK-015",
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "description": "A young girl discovers the power of books during World War II.",
+    "publishedYear": 2005,
+    "totalCopies": 5,
+    "availableCopies": 3,
+    "rating": 4.8
+  },
+  {
+    "id": "BK-016",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "description": "Sherlock Holmes solves a collection of challenging mysteries.",
+    "publishedYear": 1892,
+    "totalCopies": 4,
+    "availableCopies": 4,
+    "rating": 4.7
+  },
+  {
+    "id": "BK-017",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "description": "A group of people confronts the mysterious Count Dracula.",
+    "publishedYear": 1897,
+    "totalCopies": 3,
+    "availableCopies": 2,
+    "rating": 4.5
+  },
+  {
+    "id": "BK-018",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Horror",
+    "description": "A scientist creates a living being and faces the consequences.",
+    "publishedYear": 1818,
+    "totalCopies": 4,
+    "availableCopies": 1,
+    "rating": 4.5
+  },
+  {
+    "id": "BK-019",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "description": "An astronaut fights to survive after being stranded on Mars.",
+    "publishedYear": 2011,
+    "totalCopies": 5,
+    "availableCopies": 3,
+    "rating": 4.7
+  },
+  {
+    "id": "BK-020",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Thriller",
+    "description": "A therapist investigates why a woman stopped speaking after a violent incident.",
+    "publishedYear": 2019,
+    "totalCopies": 4,
+    "availableCopies": 0,
+    "rating": 4.6
+  }
+]
